@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactTreavelvi/static/css/main.644fea7a.css",
+    "main.js": "/reactTreavelvi/static/js/main.47432dd7.js",
+    "static/js/453.cc96d773.chunk.js": "/reactTreavelvi/static/js/453.cc96d773.chunk.js",
+    "static/media/ajanta.jpg": "/reactTreavelvi/static/media/ajanta.45b0bc0103eef314330f.jpg",
+    "static/media/banaras.jpg": "/reactTreavelvi/static/media/banaras.c9a2e82b40bbd2900824.jpg",
+    "static/media/sikkim.jpg": "/reactTreavelvi/static/media/sikkim.571c8a47a9010b9ee403.jpg",
+    "static/media/delhi.jpg": "/reactTreavelvi/static/media/delhi.6d606fbc19d172bc75d6.jpg",
+    "static/media/hitkcampus.jpeg": "/reactTreavelvi/static/media/hitkcampus.956ff40eb61c52edcba1.jpeg",
+    "static/media/sundar.jpg": "/reactTreavelvi/static/media/sundar.96363d187e9512d1c355.jpg",
+    "static/media/goa.jpeg": "/reactTreavelvi/static/media/goa.3f6fa4aa0b4bd2ec1fb8.jpeg",
+    "static/media/kedarnath.jpg": "/reactTreavelvi/static/media/kedarnath.5e25f7175a4ee6945ec8.jpg",
+    "static/media/kolkatacityofjoy.jpeg": "/reactTreavelvi/static/media/kolkatacityofjoy.b16052086fc9a3aac0b1.jpeg",
+    "static/media/kashmir.jpeg": "/reactTreavelvi/static/media/kashmir.162dea8520d108ae69ee.jpeg",
+    "static/media/ladakh.jpeg": "/reactTreavelvi/static/media/ladakh.98254a57bff92d6359b4.jpeg",
+    "static/media/puri.jpeg": "/reactTreavelvi/static/media/puri.f241d50e0594558793c9.jpeg",
+    "static/media/dargi.jpeg": "/reactTreavelvi/static/media/dargi.0fb395654eb3724bc9e8.jpeg",
+    "static/media/jim.jpeg": "/reactTreavelvi/static/media/jim.1a17d9f3d15421cdb9b7.jpeg",
+    "static/media/manali.jpeg": "/reactTreavelvi/static/media/manali.30e9b60173b61f49b065.jpeg",
+    "static/media/ayodhya.jpeg": "/reactTreavelvi/static/media/ayodhya.1d5bcbff7a6f149fa46c.jpeg",
+    "index.html": "/reactTreavelvi/index.html",
+    "main.644fea7a.css.map": "/reactTreavelvi/static/css/main.644fea7a.css.map",
+    "main.47432dd7.js.map": "/reactTreavelvi/static/js/main.47432dd7.js.map",
+    "453.cc96d773.chunk.js.map": "/reactTreavelvi/static/js/453.cc96d773.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.644fea7a.css",
+    "static/js/main.47432dd7.js"
+  ]
+}
